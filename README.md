@@ -2,7 +2,9 @@
 
 About Me
 
-Latest Linkedin Posts
+### Latest Linkedin Posts:
+<!-- Linkedin:START -->
+<!-- Linkedin:END -->
 
 ### Tools:
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=#00758f)
