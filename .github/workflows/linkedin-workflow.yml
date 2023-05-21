@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "3"
           comment_tag_name: "LINKEDIN"
-          feed_list: "https://www.linkedin.com/in/maksym-sydiaka-25985424a/recent-activity/all/"
+          feed_list: "https://www.linkedin.com/in/maksym-sydiaka-25985424a/recent-activity/all/rss.xml"
