@@ -15,3 +15,4 @@ About Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Max_Sidyaka)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maksym-sydiaka-25985424a/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sydiaka32&show_icons=true&theme=THEME_NAME=radical)](https://github.com/anuraghazra/github-readme-stats)
