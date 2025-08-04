@@ -12,10 +12,10 @@ I thrive in collaborative team environments, bringing excellent communication, a
 ### 🧰 Tools & Technologies  
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=ff6c37)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
-![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=Playwright&logoColor=2EAD33)
 ![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E71B1C)
-![BrowserStack](https://img.shields.io/badge/-BrowserStack-090909?style=for-the-badge&logo=browserstack&logoColor=0D8EFF)
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-090909?style=for-the-badge&logo=Browserstack&logoColor=0D8EFF)
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 
 ---
