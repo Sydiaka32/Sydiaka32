@@ -12,17 +12,18 @@ I thrive in collaborative team environments, bringing excellent communication, a
 ### 🧰 Tools & Technologies  
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=ff6c37)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
-![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge&logo=playwright&logoColor=green)
-![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge&logo=pytest&logoColor=blue)
-![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZGMzMDI3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMiIvPjwvc3ZnPg==&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/-BrowserStack-090909?style=for-the-badge&logo=BrowserStack&logoColor=ffb400)
+![Playwright](https://img.shields.io/badge/-Playwright-090909?style=for-the-badge)
+![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge)
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-090909?style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=D22128)
 
 ---
 
 ### 🔗 Follow Me  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Max_Sidyaka)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maksym-sydiaka-25985424a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/maksym-sydiaka-25985424a/)
+
 
 ---
 
