@@ -1,11 +1,13 @@
 [![Header](https://github.com/Sydiaka32/Sydiaka32/blob/main/assets/Maksym%20Sydiaka.png)](https://www.linkedin.com/in/maksym-sydiaka-25985424a/)
 
 ### 👋 About Me  
-Hello, my name is **Maksym Sydiaka**, and I am a **Quality Assurance Engineer** with extensive experience in testing CRM systems, admin dashboards, fintech solutions, and auction platforms. I specialize in both **manual and automated testing**, utilizing tools like **Postman, JMeter, TestRail, and Swagger**, alongside bug-tracking platforms such as **Jira, Trello, and Redmine**.
+QA Engineer with 3+ years of experience testing web and mobile applications, including fintech platforms, auction systems, and CRM solutions.
 
-I have a proven track record of ensuring product quality by identifying and resolving issues efficiently, leveraging my expertise in tools like **DevTools, BrowserStack, and PostgreSQL** for database testing. My work on diverse projects has equipped me with a strong understanding of complex systems and workflows.
+Experienced in both manual and automated testing, with strong expertise in API testing, end-to-end validation, and test automation using Playwright + TypeScript. Built and maintained automation frameworks from scratch to support reliable regression testing and faster release cycles.
 
-I thrive in collaborative team environments, bringing excellent communication, attention to detail, and organizational skills to the table. With a proactive approach and a commitment to delivering high-quality results, I am confident in my ability to contribute to your team and help achieve project success.
+Comfortable working in Agile teams and collaborating closely with developers and product stakeholders to ensure product quality and stable releases.
+
+Always focused on improving testing processes and introducing automation where it adds value.
 
 ---
 
